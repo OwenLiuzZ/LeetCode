@@ -1,2 +1,2 @@
-# LeetCodePractice
+# LeetCode
 leetcode practice file
