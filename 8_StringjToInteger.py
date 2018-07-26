@@ -35,4 +35,4 @@ class Solution(object):
                 return sum*sign
 
 solution = Solution()
-print solution.myAtoi('12l')
+print solution.myAtoi('123wordka')
