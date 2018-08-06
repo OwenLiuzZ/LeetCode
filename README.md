@@ -2,5 +2,6 @@
 leetcode practice file
 
 notice that :
-No_nameOfProblem.py is the original solution
+1. All the file work under the Python 2.7
+2. No_nameOfProblem.py is the original solution
 
