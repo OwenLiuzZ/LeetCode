@@ -11,4 +11,4 @@ class Solution(object):
 
 # For test
 solution = Solution()
-solution.twoSum([2, 5, 7, 10], 12)
+print solution.twoSum([2, 5, 7, 10], 12)
